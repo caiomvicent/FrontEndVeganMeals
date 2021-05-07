@@ -1,0 +1,18 @@
+:root{
+    --background-white: #ffffff;
+    --background-grey: #fafafa;
+    --gradien-one: #da3394;
+    --gradien-two: #e03c67;
+    --gradien-whree: #f3753b;
+    --gradien-four: #f99b4a;
+    --font-color-primary: #262626;
+    --font-color-secondary: #8e8e8e;
+    --font-color-footer: #c7c7c7;
+    --border-color-gray: #dbdbdb;
+    --border-color-gray-secondary: #efefef;
+    --link-color: #0095f6;
+    --link-color-secondary: #b3dffc;
+    --font: "Montserrat", sans-serif;
+}
+
+

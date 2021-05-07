@@ -1,0 +1,28 @@
+.card:not(:first-child) {
+  margin-top: 50px;
+}
+.card:last-child{
+  margin-bottom: 30px;
+}
+
+.card{
+  background-color: #ffffff;
+  padding: 1.2%;
+  border-radius: 5px;
+  box-shadow: 1px 1px 10px #1b1b1b5b;
+}
+
+.card img{
+  max-width: 100%;
+  border-radius: 1px;
+  
+}
+
+
+  
+  @media only screen and (max-width: 600px) {
+    .cards {
+      width: 100%;
+    }
+  }
+  

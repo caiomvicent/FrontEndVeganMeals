@@ -1,0 +1,9 @@
+.footer{
+    color:var(--font-color-footer);
+    font-size: 1em;
+    margin-top: 2em;
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+
